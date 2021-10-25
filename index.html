@@ -5,15 +5,30 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="style.css" />
-    <link rel="stylesheet" href="NH/nh.css">
+    <!-- <link rel="stylesheet" href="NH/nh.css"> -->
     <title>Fontstack</title>
   </head>
   <body>
-    <h1>Neue Haas Grotesk Heading 1</h1>
-    <h2>This is the Fontstack</h2>
-    <h3>This should be the fun</h3>
-    <p>
-    Had was deem begun fondly and. Name from other reverie gathered hellas passion, she to his open apart had to from in ancient. Another childe mighty the clay shun awake deeds blast when, bacchanals bidding at thy paphian into pollution despair a, be loved and or taste plain atonement. Lone nor yet and blast long they, go isle superstition nor heralds ways. By nor agen in of monastic all to by. Partings left not and in youth. Weary love deadly made had land but in his go, pile name few control youth who sun that. Crime memory his paphian and.
-    </p>
+    <div class="nh">
+      <h1>Sphinx of black quartz, judge my vow.</h1>
+      <h2>Sphinx of black quartz, judge my vow.</h2>
+      <h3>Sphinx of black quartz, judge my vow.</h3>
+      <p>Sphinx of black quartz, judge my vow.</p>
+    </div>
+
+    <input
+      type="text"
+      value="https://cdn.jsdelivr.net/gh/asadadvik/fontstack/NH/nh.css"
+      id="copy-text"
+    />
+
+    <!-- Click to copy script -->
+    <script>
+      document.getElementById("copy-text").onclick = function () {
+        this.select();
+        document.execCommand("copy");
+        alert("Copied");
+      };
+    </script>
   </body>
 </html>
