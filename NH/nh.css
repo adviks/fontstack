@@ -1,0 +1,84 @@
+@font-face {
+    font-family: "NH";
+    font-weight: 300;
+    font-style: normal;
+    src: url("NeueHaasDisplay-Light.woff2") format("woff2"),
+    url("NeueHaasDisplay-Light.woff") format("woff");
+}
+
+@font-face {
+    font-family: "NH";
+    font-weight: 300;
+    font-style: italic;
+    src: url("NeueHaasDisplay-LightItalic.woff2") format("woff2"),
+    url("NeueHaasDisplay-LightItalic.woff") format("woff");
+}
+
+@font-face {
+  font-family: "NH";
+  font-weight: 400;
+  font-style: normal;
+  src: url("NeueHaasDisplay-Roman.woff2") format("woff2"),
+    url("NeueHaasDisplay-Roman.woff") format("woff");
+}
+
+@font-face {
+  font-family: "NH";
+  font-weight: 400;
+  font-style: italic;
+  src: url("NeueHaasDisplay-RomanItalic.woff2") format("woff2"),
+    url("NeueHaasDisplay-RomanItalic.woff") format("woff");
+}
+
+
+@font-face {
+    font-family: "NH";
+  font-weight: 500;
+  font-style: normal;
+  src: url("NeueHaasDisplay-Mediu.woff2") format("woff2"),
+    url("NeueHaasDisplay-Mediu.woff") format("woff");
+}
+
+@font-face {
+  font-family: "NH";
+  font-weight: 500;
+  font-style: italic;
+  src: url("NeueHaasDisplay-MediumItalic.woff2") format("woff2"),
+    url("NeueHaasDisplay-MediumItalic.woff") format("woff");
+}
+
+
+
+@font-face {
+    font-family: "NH";
+    font-weight: bold;
+  font-style: italic;
+  src: url("NeueHaasDisplay-BoldItalic.woff2") format("woff2"),
+    url("NeueHaasDisplay-BoldItalic.woff") format("woff");
+}
+
+
+@font-face {
+  font-family: "NH";
+  font-weight: bold;
+  font-style: normal;
+  src: url("NeueHaasDisplay-Bold.woff2") format("woff2"),
+  url("NeueHaasDisplay-Bold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "NH";
+  font-weight: 900;
+  font-style: normal;
+  src: url("NeueHaasDisplay-Black.woff2") format("woff2"),
+    url("NeueHaasDisplay-Black.woff") format("woff");
+}
+
+
+@font-face {
+  font-family: "NH";
+  font-weight: 900;
+  font-style: italic;
+  src: url("NeueHaasDisplay-BlackItalic.woff2") format("woff2"),
+    url("NeueHaasDisplay-BlackItalic.woff") format("woff");
+}
