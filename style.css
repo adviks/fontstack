@@ -14,6 +14,10 @@ body {
   font-family: "Noe Display";
 }
 
+.mermaid{
+  font-family: "Mermaid";
+}
+
 input {
   width: 80%;
   padding: 0.5em;
