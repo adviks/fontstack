@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'Mermaid';
-    src: url('Mermaid-Bold.woff2') format('woff2'),
-        url('Mermaid-Bold.woff') format('woff');
+    src: url('fonts/Mermaid-Bold.woff2') format('woff2'),
+        url('fonts/Mermaid-Bold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
@@ -9,8 +9,8 @@
 
 @font-face {
     font-family: 'Noe Display';
-    src: url('NoeDisplay-Bold.woff2') format('woff2'),
-        url('NoeDisplay-Bold.woff') format('woff');
+    src: url('fonts/NoeDisplay-Bold.woff2') format('woff2'),
+        url('fonts/NoeDisplay-Bold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
